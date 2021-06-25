@@ -1,0 +1,34 @@
+fileName,variableName,description,unitText
+Hondula-ch4-data.csv,wetland,wetland site code,NA
+Hondula-ch4-data.csv,station,measurement point code,NA
+Hondula-ch4-data.csv,sitecode,combined wetland and measurement point code,NA
+Hondula-ch4-data.csv,event,sampling event number code,NA
+Hondula-ch4-data.csv,date,first day of sampling event,date
+Hondula-ch4-data.csv,fluxrate,calculated methane flux rate,mmol per m2 per hour
+Hondula-ch4-data.csv,wl_cm,water level,cm
+Hondula-ch4-data.csv,wl_delta1,change in water level from previous day,cm
+Hondula-ch4-data.csv,wl_change1,direction of water level change from previous day,
+Hondula-ch4-data.csv,wl_delta7,change in water level over previous 7 days,cm
+Hondula-ch4-data.csv,wl_change7,direction of water level change over previous 7 days,
+Hondula-ch4-data.csv,air_temp_C,air temperature,degrees C
+Hondula-ch4-data.csv,DEWP,dewpoint,NA
+Hondula-ch4-data.csv,STP_kPa,air pressure,kPa
+Hondula-ch4-data.csv,precip_mm,precipitation,mm
+Hondula-ch4-data.csv,snow_mm,snow,NA
+Hondula-ch4-data.csv,RH,relative humidity,percent
+Hondula-ch4-data.csv,water_temp_C,water temperature,NA
+Hondula-ch4-data.csv,precip_sum2,cumulative precipitation over previous 2 days,NA
+Hondula-ch4-data.csv,precip_sum3,cumulative precipitation over previous 3 days,NA
+Hondula-ch4-data.csv,precip_sum4,cumulative precipitation over previous 4 days,NA
+Hondula-ch4-data.csv,ice_cover,presence of ice on wetland surface water,NA
+Hondula-ch4-data.csv,soil_temp,soil temperature in top 3.8 cm,degrees C
+Hondula-ch4-data.csv,vwc,volumetric water content in top 3.8 cm,percent
+Hondula-ch4-data.csv,dist_m,distance along hydrologic transect relative to maximum observed surface water extent,m
+Hondula-ch4-data.csv,rel_elev_m,relative elevation above wetland center,m
+Hondula-ch4-data.csv,afp,air-filled pore space,percent
+Hondula-ch4-data.csv,wfps,water filled pore space,percent
+Hondula-ch4-data.csv,wfps_interp,gap-filled water-filled pore space,NA
+Hondula-ch4-data.csv,inundated,indicator for surface water at measurement point,NA
+Hondula-ch4-data.csv,log_flux,log of methane flux,NA
+Hondula-ch4-data.csv,cuberoot,cube root of methane flux,NA
+Hondula-ch4-data.csv,flux_cat,classified wetland zone based on inundation status and positive or negative flux,NA
